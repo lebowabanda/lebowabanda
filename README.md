@@ -14,7 +14,7 @@ I am a Computer Science graduate currently completing a software development lea
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lebowabanda&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
-
+![](https://github.com/users/lebowabanda/achievements/pull-shark)
 ---
 [![](https://komarev.com/ghpvc/?username=lebowabanda&icon=0&color=0)](https://visitcount.itsvg.in)
 
